@@ -1,7 +1,7 @@
 <!-- <h1 align="center">👨‍💻 Victor Lis Bronzo</h1> -->
 
 <p align="center">
-  <img src="https://gitcards.api.victorlisbronzo.me/card/cmjhew7bb00032ajvo8q4vzpw" alt="Victor Lis Bronzo" />
+  <img src="https://victor-lis.vercel.app/api/github/card?title=%F0%9F%9A%80%20Desenvolvedor%20Web&profession=TypeScript,%20React.js,%20Next.js,%20Node.js,%20Databases&description=Transformando%20ideias%20em%20realidade%20com%20c%C3%B3digo.&github=Victor-Lis&name1=Victor&name2=Lis&name3=Bronzo&age=18%20anos&linkedin=victor-lis-bronzo&portfolio=https://victor-lis.vercel.app&photo=https://victor-lis.vercel.app/Profile/myself.jpg&background=0D1117" alt="Victor Lis Bronzo" />
   <br>
   <a href="https://github.com/Victor-Lis/Portfolio/blob/master/docs/CARD.md" target="_blank" style="opacity:0.7; font-size:12px;">
     <img src="https://img.shields.io/badge/Faça%20seu%20próprio%20card%20aqui!-181717?style=flat&logo=github&logoColor=white" alt="GitHub Card Repo" />
