@@ -1,7 +1,7 @@
 <!-- <h1 align="center">👨‍💻 Victor Lis Bronzo</h1> -->
 
 <p align="center">
-  <img src="https://gitcards.api.victorlisbronzo.me/card/cmjhew7bb00032ajvo8q4vzpw?v=2" alt="Victor Lis Bronzo" width="650" />
+  <img src="https://gitcards.victorlisbronzo.me/api/card/cmjhew7bb00032ajvo8q4vzpw" alt="Victor Lis Bronzo" width="650" />
   <br>
   <a href="https://gitcards.victorlisbronzo.me/home" target="_blank" style="opacity:0.7; font-size:12px;">
     <img src="https://img.shields.io/badge/Faça%20seu%20próprio%20card%20aqui!-181717?style=flat&logo=github&logoColor=white" alt="GitHub Card Repo" />
@@ -98,7 +98,7 @@ Minha jornada vai além do código! 🚀 Confira alguns dos eventos que particip
 
 <div align="center">
 
-  ![](https://gitcards.victorlisbronzo.me/api/card/cmkka16ng00011uogqtcmoqh5?v=mjg8b0)
+  ![](https://gitcards.victorlisbronzo.me/api/card/cmkka16ng00011uogqtcmoqh5)
 
 </div>
 
