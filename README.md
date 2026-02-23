@@ -1,9 +1,11 @@
 <!-- <h1 align="center">👨‍💻 Victor Lis Bronzo</h1> -->
 
 <p align="center">
-  <img src="https://gitassets.victorlisbronzo.me/api/card/cmjhew7bb00032ajvo8q4vzpw" alt="Victor Lis Bronzo" width="650" />
-  <br>
-  <a href="https://gitassets.victorlisbronzo.me" target="_blank" style="opacity:0.7; font-size:12px;">
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://gitassets.victorlisbronzo.me/api/card/cmlzbz3a300010is02y1dnsl0" alt="Victor Lis Bronzo" width="350" />
+  <img width="350" src="https://gitassets.victorlisbronzo.me/api/card/cmlzc4yuv00020is0qsuk2o9q?v=11e3yl" alt="GitHub Stats" />
+</div>
+  <a href="https://gitassets.victorlisbronzo.me" target="_blank" style="opacity:0.7; font-size:12px; margin: 10px auto; display: inline-block;">
     <img src="https://img.shields.io/badge/Faça%20seu%20próprio%20card%20aqui!-181717?style=flat&logo=github&logoColor=white" alt="GitHub Card Repo" />
   </a>
 </p>
@@ -69,9 +71,9 @@ Busco constantemente aprofundar meus conhecimentos para criar aplicações otimi
 
 <div align="center">
 
-  <div style="border: none; display: flex; flex-direction: column; align-items: center; gap: 10px;">
-    <img width="320" src="https://gitassets.victorlisbronzo.me/api/card/cmjnl6ex800011vpau10okw39?v=18g56l" alt="Tech Radar" />
-    <!-- <img width="350" src="https://streak-stats.demolab.com/?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D111700&hide_border=true&ring=34df8b&fire=34df8b&currStreakLabel=34df8b" alt="GitHub Streak" /> -->
+  <div style="border: none; display: flex; align-items: center; gap: 20px; width: 100%; justify-content: center; margin-bottom: 20px;">
+    <img width="360" src="https://streak-stats.demolab.com/?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D111700&hide_border=true&ring=34df8b&fire=34df8b&currStreakLabel=34df8b" alt="GitHub Streak" />
+    <img width="220" src="https://gitassets.victorlisbronzo.me/api/card/cmjnl6ex800011vpau10okw39?v=18g56l" alt="Tech Radar" />
   </div>
 
   <img src="https://raw.githubusercontent.com/victor-lis/victor-lis/output/snake.svg" alt="Snake animation" style="max-width: 700px; margin: 20px 0;" />
@@ -85,7 +87,7 @@ Busco constantemente aprofundar meus conhecimentos para criar aplicações otimi
 ### 📦 Projetos em Destaque
 
 - 💡 **Eco-Play** – Meu projeto de conclusão de curso na Etec utilizando embarcados para resolver problemas da comunidade. (Documentado no meu linkedin)
-- 🛠️ **Git Cards** – Plataforma de assets SVG para devs enriquecerem seus README's
+- 🛠️ **Git Assets** – Plataforma de assets SVG para devs enriquecerem seus README's. [Confira aqui!](https://gitassets.victorlisbronzo.me/)
 - 🚀 **CodeUp** – Plataforma de aprendizado de programação com foco em projetos práticos. Tecnologias: React, Node.js, PostgreSQL.
 
 ---
@@ -98,7 +100,7 @@ Minha jornada vai além do código! 🚀 Confira alguns dos eventos que particip
 
 <div align="center">
 
-  ![](https://gitassets.victorlisbronzo.me/api/card/cmkka16ng00011uogqtcmoqh5)
+![](https://gitassets.victorlisbronzo.me/api/card/cmkka16ng00011uogqtcmoqh5)
 
 </div>
 
