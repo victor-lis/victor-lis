@@ -1,14 +1,24 @@
 <!-- <h1 align="center">👨‍💻 Victor Lis Bronzo</h1> -->
 
-<p align="center">
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://gitassets.victorlisbronzo.me/api/card/cmlzbz3a300010is02y1dnsl0" alt="Victor Lis Bronzo" width="350" />
-  <img width="350" src="https://gitassets.victorlisbronzo.me/api/card/cmlzc4yuv00020is0qsuk2o9q?v=11e3yl" alt="GitHub Stats" />
-</div>
+<div align="center" style="margin-bottom: 40px;">
+
+  <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 30px; margin-bottom: 20px;">
+    <img 
+      src="https://gitassets.victorlisbronzo.me/api/card/cmlzbz3a300010is02y1dnsl0" 
+      alt="Victor Lis Bronzo" 
+      width="350"
+    />
+    <img 
+      src="https://gitassets.victorlisbronzo.me/api/card/cmlzc4yuv00020is0qsuk2o9q?v=11e3yl" 
+      alt="GitHub Stats" 
+      width="350"
+    />
+  </div>
+
   <a href="https://gitassets.victorlisbronzo.me" target="_blank" style="opacity:0.7; font-size:12px; margin: 10px auto; display: inline-block;">
     <img src="https://img.shields.io/badge/Faça%20seu%20próprio%20card%20aqui!-181717?style=flat&logo=github&logoColor=white" alt="GitHub Card Repo" />
   </a>
-</p>
+</div>
 
 ---
 
@@ -65,22 +75,46 @@ Busco constantemente aprofundar meus conhecimentos para criar aplicações otimi
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
 ![PNPM](https://img.shields.io/badge/PNPM-F69220?style=flat&logo=pnpm&logoColor=white)
 
+<br>
+
 ---
 
 ### 📊 Estatísticas GitHub
 
-<div align="center">
+<br>
 
-  <div style="border: none; display: flex; align-items: center; gap: 20px; width: 100%; justify-content: center; margin-bottom: 20px;">
-    <img width="360" src="https://streak-stats.demolab.com/?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D111700&hide_border=true&ring=34df8b&fire=34df8b&currStreakLabel=34df8b" alt="GitHub Streak" />
-    <img width="220" src="https://gitassets.victorlisbronzo.me/api/card/cmjnl6ex800011vpau10okw39?v=18g56l" alt="Tech Radar" />
+<div align="center" style="margin-top: 30px; margin-bottom: 30px;">
+
+  <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 30px; margin-bottom: 30px;">
+    <img 
+      width="360"
+      src="https://streak-stats.demolab.com/?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D111700&hide_border=true&ring=34df8b&fire=34df8b&currStreakLabel=34df8b" 
+      alt="GitHub Streak"
+    />
+    <img 
+      width="220"
+      src="https://gitassets.victorlisbronzo.me/api/card/cmjnl6ex800011vpau10okw39?v=18g56l" 
+      alt="Tech Radar"
+    />
+
   </div>
 
-  <img src="https://raw.githubusercontent.com/victor-lis/victor-lis/output/snake.svg" alt="Snake animation" style="max-width: 700px; margin: 20px 0;" />
+  <img 
+    src="https://raw.githubusercontent.com/victor-lis/victor-lis/output/snake.svg" 
+    alt="Snake animation" 
+    style="max-width: 700px; margin: 30px 0;"
+  />
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=victor-lis.victor-lis&" alt="Visitor Badge" />
+  <br>
+
+  <img 
+    src="https://visitor-badge.laobi.icu/badge?page_id=victor-lis.victor-lis&" 
+    alt="Visitor Badge"
+  />
 
 </div>
+
+<br>
 
 ---
 
