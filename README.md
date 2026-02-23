@@ -4,7 +4,7 @@
   <tr>
     <td align="center" style="padding: 10px;">
       <img 
-        src="https://gitassets.victorlisbronzo.me/api/card/cmlzbz3a300010is02y1dnsl0?v=11e3yl"
+        src="https://gitassets.victorlisbronzo.me/api/card/cmlze4z1k000j0is0l983q48t?v=11e3yl"
         width="420"
       />
     </td>
