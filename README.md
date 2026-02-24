@@ -1,29 +1,20 @@
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img 
-        src="https://gitassets.victorlisbronzo.me/api/card/cmlze4z1k000j0is0l983q48t?v=11e3yl"
-        width="420"
-      />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img 
-        src="https://gitassets.victorlisbronzo.me/api/card/cmlzc4yuv00020is0qsuk2o9q?v=11e3yl" 
-        width="420"
-      />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<a href="https://gitassets.victorlisbronzo.me" target="_blank">
   <img 
-    src="https://img.shields.io/badge/Faça%20seu%20próprio%20card%20aqui!-181717?style=flat&logo=github&logoColor=white" 
+    src="https://gitassets.victorlisbronzo.me/api/card/cmlzdn9yb00050is0e4kfl456?v=l024wy"
+    width="520"
   />
-</a>
+  <img 
+    src="https://gitassets.victorlisbronzo.me/api/card/cmlzc4yuv00020is0qsuk2o9q?v=11e3yl" 
+    width="520"
+  />
+
+  <br>
+
+  <a href="https://gitassets.victorlisbronzo.me" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Faça%20seu%20próprio%20card%20aqui!-181717?style=flat&logo=github&logoColor=white" 
+    />
+  </a>
 
 </div>
 
@@ -93,26 +84,17 @@ Busco constantemente aprofundar meus conhecimentos para criar aplicações otimi
 <br>
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" style="padding: 15px;">
-      <img 
-        width="420"
-        src="https://streak-stats.demolab.com/?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D111700&hide_border=true&ring=34df8b&fire=34df8b&currStreakLabel=34df8b" 
-        alt="GitHub Streak"
-      />
-    </td>
-    <td align="center" style="padding: 15px;">
-      <img 
-        width="260"
-        src="https://gitassets.victorlisbronzo.me/api/card/cmjnl6ex800011vpau10okw39?v=18g56l" 
-        alt="Tech Radar"
-      />
-    </td>
-  </tr>
-</table>
-
+  <img 
+    width="420"
+    src="https://streak-stats.demolab.com/?user=Victor-Lis&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D111700&hide_border=true&ring=34df8b&fire=34df8b&currStreakLabel=34df8b" 
+    alt="GitHub Streak"
+  />
+  <br><br>
+  <img 
+    width="260"
+    src="https://gitassets.victorlisbronzo.me/api/card/cmjnl6ex800011vpau10okw39?v=18g56l" 
+    alt="Tech Radar"
+  />
 <br>
 
 <img 
